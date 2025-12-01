@@ -216,3 +216,5 @@ pyrightconfig.json
 # Data Files
 data/
 brisc2025/
+models/
+
