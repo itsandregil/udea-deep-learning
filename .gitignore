@@ -213,8 +213,8 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# Data Files
+# Data Files and Reasearch Files
 data/
 brisc2025/
 models/
-
+figures/
