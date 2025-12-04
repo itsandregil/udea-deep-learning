@@ -1,6 +1,6 @@
 # Deep Learning UdeA Project
 
-Watch the youtube video [Here](https://youtube.com/).
+Watch the youtube video [Here](https://youtu.be/VboriDKPK8g).
 
 ## About the Data
 
