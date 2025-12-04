@@ -1,0 +1,21 @@
+name: udea
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - jupyter
+  - notebook
+  - ca-certificates
+  - openssl
+  - pytorch
+  - torchvision
+  - certifi
+  - seaborn
+  - segmentation-models-pytorch
+  - lightning
+  - optuna
+  - tensorboard
+  - kaggle
+prefix: /Users/andre/miniforge3/envs/udea
